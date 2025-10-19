@@ -748,4 +748,3 @@ declare module gameanalytics {
 }
 declare var GameAnalyticsCommand: typeof gameanalytics.GameAnalytics.gaCommand;
 export declare var GameAnalytics: typeof gameanalytics.GameAnalytics;
-export default GameAnalytics;
